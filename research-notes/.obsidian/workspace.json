@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crystallography/Reciprocal Lattice.md",
-                "mode": "preview",
+                "file": "Test Note.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Reciprocal Lattice"
+              "title": "Test Note"
             }
           },
           {
@@ -190,14 +190,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "6b3ffea61ff2c77b",
   "lastOpenFiles": [
-    "Crystallography/Brillouin zone.md",
     "Crystallography/bravais lattice.md",
+    "Test Note.md",
     "Crystallography/Reciprocal Lattice.md",
+    "Crystallography/Brillouin zone.md",
     "Crystallography/wigner-seitz.md",
     "Crystallography/Solid Structures.md",
     "Papers/Parameterized dielectric functions of amorphous GeSn alloys.md",
