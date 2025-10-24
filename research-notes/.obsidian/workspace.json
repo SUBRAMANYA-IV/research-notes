@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test Note.md",
+                "file": "Equipment/Ellipsometry.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Test Note"
+              "title": "Ellipsometry"
             }
           },
           {
@@ -37,15 +37,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc theory/Misc Theory.md",
+                "file": "Equipment/Ellipsometry.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Misc Theory"
+              "title": "Ellipsometry"
+            }
+          },
+          {
+            "id": "9d98abc3f93dd9ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Equipment/Ellipsometry.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ellipsometry"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -174,8 +209,19 @@
               "icon": "lucide-list",
               "title": "Outline of lorentz-tauc"
             }
+          },
+          {
+            "id": "a02f27393c9d4fbb",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -194,37 +240,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b3ffea61ff2c77b",
+  "active": "9d98abc3f93dd9ec",
   "lastOpenFiles": [
-    "Crystallography/bravais lattice.md",
-    "Test Note.md",
-    "Crystallography/Reciprocal Lattice.md",
-    "Crystallography/Brillouin zone.md",
-    "Crystallography/wigner-seitz.md",
-    "Crystallography/Solid Structures.md",
+    "brewster angle.md",
+    "Equipment/Ellipsometry.md",
     "Papers/Parameterized dielectric functions of amorphous GeSn alloys.md",
     "Papers/Growth and applications of GeSn-related group-IV semiconductor materials.md",
     "Papers/Ge1−xSnx alloys; Consequences of band mixing effects for the evolution of the band gap Γ-character with Sn concentration.md",
     "Papers/Efficient electrical control of thin-film black phosphorus bandgap.md",
-    "k-selection rule.md",
-    "analytic.md",
-    "Pasted image 20251020005256.png",
-    "Misc theory/charge neutrality point.md",
-    "Misc theory/displacement fields.md",
-    "Misc theory/Fermi Energy.md",
-    "Misc theory/Misc Theory.md",
     "Misc theory/spatial frequency.md",
-    "Misc theory/Untitled.md",
-    "Misc theory",
-    "GeSn/Complex permittivity.md",
-    "Crystallography",
-    "Models/tauc-lorentz.md",
-    "Models/kramers-kronig.md",
-    "Models/forouhi-bloomer.md",
-    "Models/brendel-bormann.md",
-    "Math/lorentzian oscillator.md",
+    "Crystallography/Reciprocal Lattice.md",
+    "Misc theory/Misc Theory.md",
+    "Misc theory/displacement fields.md",
+    "displacement field.md",
+    "Misc theory/complex refractive index.md",
+    "Misc theory/Complex permittivity.md",
+    "Misc theory/charge neutrality point.md",
+    "Crystallography/wigner-seitz.md",
+    "Crystallography/Solid Structures.md",
+    "Crystallography/Brillouin zone.md",
+    "Pasted image 20251023202527.png",
+    "Pasted image 20251023202519.png",
+    "Pasted image 20251023202444.png",
+    "Solid Structures/Isotropic.md",
+    "Solid Structures",
+    "Misc theory/Dielectric.md",
+    "Misc theory/Fermi Energy.md",
+    "Crystallography/bravais lattice.md",
     "Math/hermitian.md",
-    "amorphous.md",
+    "Misc theory/Electric susceptibility.md",
+    "Math/lorentzian oscillator.md",
+    "Misc theory/Untitled.md",
+    "Equipment",
+    "Models/brendel-bormann.md",
+    "Pasted image 20251020005256.png",
+    "Misc theory",
+    "Crystallography",
     "2424_1_online.pdf",
     "Pasted image 20251018193640.png",
     "Pasted image 20251016051435.png",
@@ -232,14 +283,10 @@
     "Pasted image 20251016034155.png",
     "Pasted image 20251016034054.png",
     "Pasted image 20251005231350.png",
-    "Pasted image 20251005223804.png",
     "Untitled.base",
     "Math",
     "Papers",
     "templates",
-    "Models",
-    "Pasted image 20251005224340.png",
-    "Untitled/Untitled.base",
-    "GeSn"
+    "Models"
   ]
 }

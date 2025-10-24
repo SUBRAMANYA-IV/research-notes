@@ -25,7 +25,7 @@
 
 ![[Pasted image 20251018193640.png]]
 - Figure shows that for the 4 nm BP sample, conductance-minimum occurs linearly with respect to back-gate voltage and top-gate voltage. 
-- [[Misc Theory#displacement fields|displacement field]] generated in both the top-gate and bottom-gate dielectric should be roughly equal at the charge-neutrality point
+- [[displacement fields]] generated in both the top-gate and bottom-gate dielectric should be roughly equal at the charge-neutrality point
 ###### Details
 ###### Notes
 ##### tags

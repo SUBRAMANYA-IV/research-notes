@@ -2,7 +2,7 @@
 ## What
 - Fourier transform f the lattice. 
 	- The direct/real lattice is a periodic function in the physical space, such as the [[bravais lattice]]. 
-	- the reciprocal lattice exists in the k-space, or [[Misc Theory#spatial frequency|spatial frequency]]. 
+	- the reciprocal lattice exists in the k-space, or [[spatial frequency]]. 
 - Consider a basic plane wave given by 
 $$
 \Psi_{k}(r)=\Psi_{0}e^{\vec{k}\vec{r}}

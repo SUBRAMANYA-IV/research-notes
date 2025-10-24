@@ -7,3 +7,7 @@
 ![[charge neutrality point]]
 
 ![[Fermi Energy]]
+
+![[Dielectric]]
+
+![[Electric susceptibility]]

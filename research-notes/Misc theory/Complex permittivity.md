@@ -14,7 +14,15 @@
 	- [[forouhi-bloomer]]
 	- [[brendel-bormann]]
 - Yields the complex-permittivity as a function of the electromagnetic waves energy (directly related to eV, wavelength and frequency)
-
+- Related to [[Electric susceptibility]] via the formula
+$$
+\vec{P}=\epsilon_{0}\chi_{e}\vec{E}
+$$
+- where $\vec{P}$ is the polarization density
+$$
+\chi_{e}=\epsilon_{r}-1
+$$
+- the above equation relates the relative permittivity of the material $e_{r}$ and its susceptibility $\chi_{e}$
 ## Related Readings
 - [wiki page for complex permittivity](https://en.wikipedia.org/wiki/Tauc%E2%80%93Lorentz_model)
 - [libretext](https://phys.libretexts.org/Bookshelves/Electricity_and_Magnetism/Electromagnetics_II_(Ellingson)/03%3A_Wave_Propagation_in_General_Media/3.04%3A_Complex_Permittivity)

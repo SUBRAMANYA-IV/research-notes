@@ -6,46 +6,17 @@
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:Math  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:Models  ",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:Papers  ",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "path:Crystallography  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 0.778345168261809,
-  "lineSizeMultiplier": 3.8726974374807,
+  "nodeSizeMultiplier": 1.19739583333333,
+  "lineSizeMultiplier": 1.22291666666667,
   "collapse-forces": false,
-  "centerStrength": 0.83994751466502,
+  "centerStrength": 0.255208333333333,
   "repelStrength": 19.8406915714727,
   "linkStrength": 0,
   "linkDistance": 500,
-  "scale": 0.48213388027305604,
+  "scale": 0.18230828289330403,
   "close": false
 }
