@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equipment/Ellipsometry.md",
+                "file": "Crystallography/Reciprocal Lattice.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ellipsometry"
+              "title": "Reciprocal Lattice"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equipment/Ellipsometry.md",
+                "file": "FALL2025/ECE555/Flip Flop's and latches/Flip Flop Timings.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,35 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ellipsometry"
-            }
-          },
-          {
-            "id": "9d98abc3f93dd9ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Equipment/Ellipsometry.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ellipsometry"
+              "title": "Flip Flop Timings"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -240,53 +216,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9d98abc3f93dd9ec",
+  "active": "274576c4ffb1cd26",
   "lastOpenFiles": [
-    "brewster angle.md",
-    "Equipment/Ellipsometry.md",
-    "Papers/Parameterized dielectric functions of amorphous GeSn alloys.md",
-    "Papers/Growth and applications of GeSn-related group-IV semiconductor materials.md",
-    "Papers/Ge1−xSnx alloys; Consequences of band mixing effects for the evolution of the band gap Γ-character with Sn concentration.md",
-    "Papers/Efficient electrical control of thin-film black phosphorus bandgap.md",
-    "Misc theory/spatial frequency.md",
-    "Crystallography/Reciprocal Lattice.md",
-    "Misc theory/Misc Theory.md",
-    "Misc theory/displacement fields.md",
-    "displacement field.md",
-    "Misc theory/complex refractive index.md",
-    "Misc theory/Complex permittivity.md",
-    "Misc theory/charge neutrality point.md",
+    "Pasted image 20251103144039.png",
+    "FALL2025/CS577/DYNAMIC PROGRAMMING/PROBLEMS/Weighted Interval Scheduling.md",
+    "FALL2025/ECE555/Flip Flop's and latches/Flip Flop Timings.md",
+    "FALL2025/ECE555/Flip Flop's and latches",
+    "FALL2025/ECE555",
+    "FALL2025/CS577/DYNAMIC PROGRAMMING/Bellman Equation.md",
+    "Pasted image 20251031152741.png",
+    "FALL2025/CS577/NETWORK FLOW/Ford-Fulkerson.md",
+    "FALL2025/CS577/DYNAMIC PROGRAMMING/PROBLEMS",
+    "FALL2025/CS577/DYNAMIC PROGRAMMING",
+    "FALL2025/CS539/TODO.md",
+    "FALL2025/CS577/NETWORK FLOW/NETWORK FLOW.md",
+    "FALL2025/CS539",
+    "FALL2025/CS577/NETWORK FLOW/Maximum-Flow Problem.md",
     "Crystallography/wigner-seitz.md",
     "Crystallography/Solid Structures.md",
+    "Crystallography/Reciprocal Lattice.md",
     "Crystallography/Brillouin zone.md",
-    "Pasted image 20251023202527.png",
-    "Pasted image 20251023202519.png",
-    "Pasted image 20251023202444.png",
-    "Solid Structures/Isotropic.md",
-    "Solid Structures",
-    "Misc theory/Dielectric.md",
-    "Misc theory/Fermi Energy.md",
     "Crystallography/bravais lattice.md",
-    "Math/hermitian.md",
-    "Misc theory/Electric susceptibility.md",
-    "Math/lorentzian oscillator.md",
+    "Pasted image 20251030093949.png",
+    "Pasted image 20251030093055.png",
+    "FALL2025/CS577/NETWORK FLOW",
+    "FALL2025/CS577",
+    "FALL2025",
+    "todo.md",
+    "Equipment/X-ray diffraction.md",
+    "Equipment/Ellipsometry.md",
+    "Equipment/X-ray photoelectron spectroscopy.md",
+    "Misc theory/charge neutrality point.md",
+    "Misc theory/Fermi Energy.md",
+    "Misc theory/displacement fields.md",
+    "Misc theory/Dielectric.md",
+    "Misc theory/Complex permittivity.md",
+    "Misc theory/spatial frequency.md",
+    "Misc theory/Misc Theory.md",
     "Misc theory/Untitled.md",
-    "Equipment",
-    "Models/brendel-bormann.md",
-    "Pasted image 20251020005256.png",
-    "Misc theory",
-    "Crystallography",
-    "2424_1_online.pdf",
-    "Pasted image 20251018193640.png",
+    "Misc theory/Photoconductive vs Photovoltaic.md",
+    "Pasted image 20251023202519.png",
     "Pasted image 20251016051435.png",
-    "Pasted image 20251016035155.png",
-    "Pasted image 20251016034155.png",
     "Pasted image 20251016034054.png",
-    "Pasted image 20251005231350.png",
-    "Untitled.base",
-    "Math",
-    "Papers",
-    "templates",
-    "Models"
+    "Pasted image 20251005223804.png",
+    "Crystallography/crystal_base.base",
+    "Crystallography/Untitled.canvas",
+    "test_base.base",
+    "Pasted image 20251023222745.png",
+    "Pasted image 20251023222722.png",
+    "Pasted image 20251023202527.png"
   ]
 }

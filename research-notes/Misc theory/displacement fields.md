@@ -8,3 +8,5 @@ $$
 	- creates an electric field across the dielectric (recall, electric field is *potential difference per unit distance*)
 	- dielectric polarizes in response to the electric field (permittivity)
 	- resulting displacement field $D$ tells us how much "flux" or **induced charge density** is being transmitted towards the semiconductor channel. 
+###### tags
+#physics 

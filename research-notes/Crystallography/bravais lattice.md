@@ -1,4 +1,4 @@
-- crystal lattices are classified by their **transnational** and **rotational** symmetry. 
+c- crystal lattices are classified by their **transnational** and **rotational** symmetry. 
 - in 3-d, this yields a total of 14 *distinct* lattice types, which are called [[bravais lattice]]s
 	- the dots represent lattice points, which are locations where the **whole structure repeats** by translation
 		- **NOT** to be confused with location of actual atoms. This is described in the *basis* used
@@ -12,3 +12,7 @@
 
 
 ![[Pasted image 20251020005256.png]]
+
+###### Tags
+#crystallography 
+#physics 

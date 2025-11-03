@@ -9,3 +9,5 @@ $$f(E)=\frac{1}{1+e^{(E-E_{F})/kT}}$$
 	- "deeper" into each region (conduction, valence), greater concentration of **available energy states**
 
  ![[Pasted image 20251016035155.png]]
+ ###### tags
+#physics 

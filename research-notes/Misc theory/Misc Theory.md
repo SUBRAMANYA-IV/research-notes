@@ -11,3 +11,4 @@
 ![[Dielectric]]
 
 ![[Electric susceptibility]]
+![[Photoconductive vs Photovoltaic]]

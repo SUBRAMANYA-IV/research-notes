@@ -1,6 +1,6 @@
 2025-10-16 09:42
 ## What
-- Fourier transform f the lattice. 
+- Fourier transform of the lattice. 
 	- The direct/real lattice is a periodic function in the physical space, such as the [[bravais lattice]]. 
 	- the reciprocal lattice exists in the k-space, or [[spatial frequency]]. 
 - Consider a basic plane wave given by 
@@ -100,3 +100,6 @@ $$
 	- yields understanding of band gaps, effective masses and crystal momentum. 
 ## How
 
+###### tags
+#crystallography 
+#physics 

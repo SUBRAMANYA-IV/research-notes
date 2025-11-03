@@ -13,4 +13,5 @@
 - used in capacitors to store energy from an applied electric field (voltage) as energy, that can later be "released" via relaxation ([[debye relaxation]]) of the dipole moments in the dielectric. 
 
 
-
+###### tags
+#physics 

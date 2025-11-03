@@ -1,0 +1,3 @@
+- linear regression, invertible, rank, etc
+- hyperplanes, weights acting as normals
+- derivatives for activation functions, loss functions

@@ -1,4 +1,3 @@
-
 ## What
 - describes energy/wavelength/frequency dependent permittivity of a material
 - composed of real and imaginary component

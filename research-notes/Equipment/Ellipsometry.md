@@ -32,4 +32,8 @@ $$
 - Using the aforementioned models and an iterative procedure (least-squares minimization) unknown optical constants and/or thickness parameters are varied, and $\Psi$ and $\Delta$ values are calculated using the [[Fresnel Equations]]. 
 ## Why
 
+###### tags
+#crystallography 
+#physics 
+#equipment
 
