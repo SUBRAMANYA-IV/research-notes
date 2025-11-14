@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crystallography/Reciprocal Lattice.md",
-                "mode": "source",
+                "file": "FALL2025/ECE555/Adder Design.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Reciprocal Lattice"
+              "title": "Adder Design"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FALL2025/ECE555/Flip Flop's and latches/Flip Flop Timings.md",
+                "file": "FALL2025/CS577/NETWORK FLOW/Min Cut.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Flip Flop Timings"
+              "title": "Min Cut"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "82b705d26e84d535",
@@ -216,54 +216,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "274576c4ffb1cd26",
+  "active": "6b3ffea61ff2c77b",
   "lastOpenFiles": [
-    "Pasted image 20251103144039.png",
-    "FALL2025/CS577/DYNAMIC PROGRAMMING/PROBLEMS/Weighted Interval Scheduling.md",
+    "FALL2025/ECE555/Implementing Sequential Circuits.md",
+    "FALL2025/ECE555/Interconnects.md",
+    "Pasted image 20251114145609.png",
+    "Pasted image 20251114145038.png",
+    "Pasted image 20251114144848.png",
+    "Pasted image 20251114144636.png",
+    "Pasted image 20251114144454.png",
+    "FALL2025/ECE555/Adder Design.md",
+    "Pasted image 20251114143242.png",
+    "Pasted image 20251114135251.png",
+    "Pasted image 20251114135007.png",
+    "Pasted image 20251114134621.png",
+    "Pasted image 20251114134455.png",
+    "FALL2025/ECE555/Sequential Logic.md",
+    "FALL2025/CS577/NETWORK FLOW/Bipartite Matching Problem.md",
+    "FALL2025/CS577/NETWORK FLOW/Untitled.md",
+    "FALL2025/CS577/NETWORK FLOW/Min Cut.md",
+    "FALL2025/CS577/NETWORK FLOW/NETWORK FLOW.md",
+    "FALL2025/CS577/NETWORK FLOW/Node Demands and Lower Bounds.md",
+    "FALL2025/CS577/NETWORK FLOW/Residual Graph.md",
+    "FALL2025/CS577/NETWORK FLOW/Image Segmentation.md",
+    "FALL2025/CS577/NETWORK FLOW/Ford-Fulkerson.md",
+    "FALL2025/CS577/NETWORK FLOW/Edge Disjoint Paths.md",
+    "FALL2025/CS577/NETWORK FLOW/Maximum-Flow Problem.md",
+    "Crystallography/Reciprocal Lattice.md",
+    "FALL2025/ECE555/Interconnects/Basic Latch.md",
     "FALL2025/ECE555/Flip Flop's and latches/Flip Flop Timings.md",
+    "FALL2025/ECE555/Interconnects",
+    "FALL2025/Untitled",
+    "evanescent field.md",
+    "Photonics/MZI.md",
+    "Photonics/Grating Coupler.md",
+    "FALL2025/CS539/Activity 25.md",
+    "Photonics",
+    "FALL2025/CS577/DYNAMIC PROGRAMMING/PROBLEMS/Weighted Interval Scheduling.md",
+    "FALL2025/CS539/TODO.md",
+    "FALL2025/CS539/Activity 24.md",
     "FALL2025/ECE555/Flip Flop's and latches",
     "FALL2025/ECE555",
     "FALL2025/CS577/DYNAMIC PROGRAMMING/Bellman Equation.md",
-    "Pasted image 20251031152741.png",
-    "FALL2025/CS577/NETWORK FLOW/Ford-Fulkerson.md",
     "FALL2025/CS577/DYNAMIC PROGRAMMING/PROBLEMS",
     "FALL2025/CS577/DYNAMIC PROGRAMMING",
-    "FALL2025/CS539/TODO.md",
-    "FALL2025/CS577/NETWORK FLOW/NETWORK FLOW.md",
     "FALL2025/CS539",
-    "FALL2025/CS577/NETWORK FLOW/Maximum-Flow Problem.md",
-    "Crystallography/wigner-seitz.md",
-    "Crystallography/Solid Structures.md",
-    "Crystallography/Reciprocal Lattice.md",
-    "Crystallography/Brillouin zone.md",
-    "Crystallography/bravais lattice.md",
-    "Pasted image 20251030093949.png",
-    "Pasted image 20251030093055.png",
     "FALL2025/CS577/NETWORK FLOW",
     "FALL2025/CS577",
-    "FALL2025",
-    "todo.md",
-    "Equipment/X-ray diffraction.md",
-    "Equipment/Ellipsometry.md",
-    "Equipment/X-ray photoelectron spectroscopy.md",
-    "Misc theory/charge neutrality point.md",
-    "Misc theory/Fermi Energy.md",
-    "Misc theory/displacement fields.md",
-    "Misc theory/Dielectric.md",
-    "Misc theory/Complex permittivity.md",
-    "Misc theory/spatial frequency.md",
-    "Misc theory/Misc Theory.md",
-    "Misc theory/Untitled.md",
-    "Misc theory/Photoconductive vs Photovoltaic.md",
-    "Pasted image 20251023202519.png",
-    "Pasted image 20251016051435.png",
-    "Pasted image 20251016034054.png",
-    "Pasted image 20251005223804.png",
-    "Crystallography/crystal_base.base",
-    "Crystallography/Untitled.canvas",
-    "test_base.base",
-    "Pasted image 20251023222745.png",
-    "Pasted image 20251023222722.png",
-    "Pasted image 20251023202527.png"
+    "Crystallography/Untitled.canvas"
   ]
 }
