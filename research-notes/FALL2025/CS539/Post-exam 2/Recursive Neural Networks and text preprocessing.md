@@ -1,0 +1,13 @@
+- **Goal**: work with text data represented as sequences of words, characters or word-pieces
+- **Preprocessing steps:**
+	- Read the text data: separated tools (text scraper)
+	- remove special characters
+	- **tokenization**: split the string into tokens (e.g, words, characters or sub-words)
+	- **embedding**: build a vocabulary dictionary to associate each token element with a **numerical index**
+	- convert the text into sequences of numerical indices 
+#### Tokenization
+- modern NLP uses a sequence of tokens as its input
+- each token can be a word, a sub-word or a character 
+- **word token**:
+	- pretrained word embedded such as word2vec, GloVE, converting variable length words into fixed length vectors
+	- need to deal with out of vocabulay words. 

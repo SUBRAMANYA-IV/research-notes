@@ -22,6 +22,13 @@
 		- $f(s,u)=1$: total flow from source to nodes in set $U$ must equal $k$.
 		- $f(u,v)=1$: total flow between nodes $u,v$ must be 1, and total to $k$
 		- $f(v,t)$=1: flow from a node in set $Y$ to the sink $T$ must be equal to 1, and sum to a total of $k$
+##### Runtime
+- Assume that $n=|X|=|Y|,m=|E|$
+	- note that the total number of nodes is given by $|X|+|Y|$, BUT since O notation doesn't consider constant offsets
+	- $n$ hence can just be considered the magnitude of *one* set/side
+- Overall run time given by $O(mn)$
+- basic [[Ford-Fulkerson]] method is bound by $O(mC), C=n$
+- 
 
 
 ###### tags

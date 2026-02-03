@@ -1,0 +1,13 @@
+- paper should focus on comparing performance of wafer bonded, epitaxially grown and grafted diodes
+	- find literature or other papers that demonstrate the performance of wafer bonded and epitaxial. 
+	- Specific figures and numbers to look for: 
+		- Ideality Factor
+		- Current Density 
+		- Rectification Ratio
+		- Leakage current. 
+- **MOTIVATION**: demonstrate that grafting out performs conventional fabrication methods. 
+- We have data from previous batches of grafted diodes, can be used for the paper. 
+- Talk to frank flack
+- Take the data given by sam, and compare them with the figures, data or plots from the afformentioned papers (wafer bonded, epitaxial). 
+- Look into wafer bonding. 
+- get a rough draft/idea done by 4th, Wednesday. 

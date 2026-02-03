@@ -1,0 +1,39 @@
+#### Introduction
+- **MOSTFET OPERATION**
+	- Cutoff, Saturation, Triode
+	- Gate bias, effects of gate/drain bias
+	- **ID EQUATION, SHORT AND LONG CHANNEL**
+	- **VD/ID CHARACTERISTICS**
+	- **LEAKAGE CURRENTS**
+		- subthreshold 
+		- gate tunneling
+		- source/drain reverse bias leakage
+	- **BODY EFFECT**
+	- **SHORT VS LONG CHANNEL**
+		- **ELECTRON VELOCITY SATURATION**
+		- **DRAIN INDUCED BARRIER LOWERING**
+
+**MOSFET CAPACITANCES**
+- **SIMPLE MODEL**
+	- GATE CAPACITANCE
+	- DIFFUSION CAPACITANCE
+
+**LAYOUT**
+- PROS/CONS OF LAYOUTS
+- WIDE DEVICES
+- **CMOS INVERTER VTC**
+- **NOISE MARGIN**
+- **TIMING BEHAVIOR (i.e, propogation delay, rise fall times)
+- **FANOUT OF FOUR**
+- **BETA RATIOS**
+
+#### Combinational logic
+- **SIZING FOR RISE FALL TIMES, BETA RATIOS**
+- **LOGICAL EFFORT**
+- **TAPERED STACK, ORDERING OF INPUTS TO MINIMIZE DELAYS**
+
+#### ADDER DESIGN
+- VARIOUS ADDER DESIGNS
+
+#### SEQUENTIAL CIRCUITS
+- 

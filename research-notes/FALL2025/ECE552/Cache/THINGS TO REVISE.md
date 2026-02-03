@@ -1,0 +1,2 @@
+- order of store from register to cache to memory in an allocate-on-write setup
+- 

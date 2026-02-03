@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1e2f38aae847fb46",
+        "id": "e23c2c31379018a5",
         "type": "tabs",
         "children": [
           {
-            "id": "6b3ffea61ff2c77b",
+            "id": "18ec345d4af69b6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FALL2025/ECE555/Adder Design.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Adder Design"
-            }
-          },
-          {
-            "id": "274576c4ffb1cd26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FALL2025/CS577/NETWORK FLOW/Min Cut.md",
+                "file": "SPRING2026/ECE835/Lecture 1 - Fundamentals of Classical Optics/Light interactions with matter.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +28,37 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Min Cut"
+              "title": "Light interactions with matter"
+            }
+          }
+        ]
+      },
+      {
+        "id": "07d89faaf51783d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c5c9e91b4654dbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SPRING2026/ECE835/Lecture 1 - Fundamentals of Classical Optics/Maxwell's equations and the wave equation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Maxwell's equations and the wave equation"
             }
           }
         ]
@@ -112,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "82b705d26e84d535",
@@ -195,9 +200,19 @@
               "icon": "history",
               "title": "History"
             }
+          },
+          {
+            "id": "1cc17cf721982806",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -216,53 +231,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b3ffea61ff2c77b",
+  "active": "18ec345d4af69b6a",
   "lastOpenFiles": [
-    "FALL2025/ECE555/Implementing Sequential Circuits.md",
-    "FALL2025/ECE555/Interconnects.md",
-    "Pasted image 20251114145609.png",
-    "Pasted image 20251114145038.png",
-    "Pasted image 20251114144848.png",
-    "Pasted image 20251114144636.png",
-    "Pasted image 20251114144454.png",
-    "FALL2025/ECE555/Adder Design.md",
-    "Pasted image 20251114143242.png",
-    "Pasted image 20251114135251.png",
-    "Pasted image 20251114135007.png",
-    "Pasted image 20251114134621.png",
-    "Pasted image 20251114134455.png",
-    "FALL2025/ECE555/Sequential Logic.md",
-    "FALL2025/CS577/NETWORK FLOW/Bipartite Matching Problem.md",
-    "FALL2025/CS577/NETWORK FLOW/Untitled.md",
-    "FALL2025/CS577/NETWORK FLOW/Min Cut.md",
-    "FALL2025/CS577/NETWORK FLOW/NETWORK FLOW.md",
-    "FALL2025/CS577/NETWORK FLOW/Node Demands and Lower Bounds.md",
-    "FALL2025/CS577/NETWORK FLOW/Residual Graph.md",
-    "FALL2025/CS577/NETWORK FLOW/Image Segmentation.md",
-    "FALL2025/CS577/NETWORK FLOW/Ford-Fulkerson.md",
-    "FALL2025/CS577/NETWORK FLOW/Edge Disjoint Paths.md",
-    "FALL2025/CS577/NETWORK FLOW/Maximum-Flow Problem.md",
-    "Crystallography/Reciprocal Lattice.md",
-    "FALL2025/ECE555/Interconnects/Basic Latch.md",
-    "FALL2025/ECE555/Flip Flop's and latches/Flip Flop Timings.md",
-    "FALL2025/ECE555/Interconnects",
-    "FALL2025/Untitled",
-    "evanescent field.md",
+    "SPRING2026/ECE835/Lecture 1 - Fundamentals of Classical Optics/Maxwell's equations and the wave equation.md",
+    "SPRING2026/ECE835/Lecture 1 - Fundamentals of Classical Optics/Light interactions with matter.md",
+    "SPRING2026/ECE313/Lab 1 - Principles of optical wave guides..md",
+    "SPRING2026/ECE313",
+    "SPRING2026/ECE835/Lecture 1 - Fundamentals of Classical Optics/Polarization.md",
+    "SPRING2026/ECE835/Lecture 1 - Fundamentals of Classical Optics/Lecture Notes.md",
+    "curl.md",
+    "Pasted image 20260201133558.png",
+    "Pasted image 20260201133447.png",
+    "Si-Si project/Meeting 2026-01-28 Notes.md",
+    "Si-Si project/Paper Outline.md",
+    "Si-Si project/Atomic Layer Deposition.md",
+    "Pasted image 20260131000748.png",
+    "Pasted image 20260131000558.png",
+    "Si-Si project/Reactive Ion etching.md",
+    "Perovskites/Perovskites.md",
+    "Pasted image 20260126135300.png",
+    "Pasted image 20260126135141.png",
+    "Pasted image 20260126135106.png",
+    "Pasted image 20260126134052.png",
+    "SPRING2026/ECE835/Lecture 0/Lecture 0 - Lecture notes.md",
+    "SPRING2026/ECE835/Lecture 0",
+    "SPRING2026/ECE755/Course Information.md",
+    "SPRING2026/ECE554/Vivado Flow.md",
+    "IMEC Notes/Interview Notes.md",
+    "Textbooks/atoms-molecules-and-photons-demtrc3b6der-springer-2005.pdf",
+    "Textbooks/Fox_M_Quantum_optics_an_introduction.pdf",
+    "SPRING2026/ECE835/Lecture 1 - Fundamentals of Classical Optics",
+    "SPRING2026/ECE835",
+    "Pasted image 20260123142024.png",
+    "Pasted image 20260123135009.png",
+    "SPRING2026/ECE554",
+    "IMEC Notes",
+    "Equipment/Scanning Electron Microscopy (SEM).md",
+    "SPRING2026/ECE755",
+    "SPRING2026",
     "Photonics/MZI.md",
     "Photonics/Grating Coupler.md",
-    "FALL2025/CS539/Activity 25.md",
-    "Photonics",
-    "FALL2025/CS577/DYNAMIC PROGRAMMING/PROBLEMS/Weighted Interval Scheduling.md",
-    "FALL2025/CS539/TODO.md",
-    "FALL2025/CS539/Activity 24.md",
-    "FALL2025/ECE555/Flip Flop's and latches",
-    "FALL2025/ECE555",
-    "FALL2025/CS577/DYNAMIC PROGRAMMING/Bellman Equation.md",
-    "FALL2025/CS577/DYNAMIC PROGRAMMING/PROBLEMS",
-    "FALL2025/CS577/DYNAMIC PROGRAMMING",
-    "FALL2025/CS539",
-    "FALL2025/CS577/NETWORK FLOW",
-    "FALL2025/CS577",
+    "FALL2025/ECE555/Interconnects.md",
+    "FALL2025/ECE555/Implementing Sequential Circuits.md",
+    "FALL2025/ECE555/NAND ROM.md",
+    "FALL2025/ECE555/REVISION CHECKLIST.md",
+    "FALL2025/ECE555/SRAM clock tree generation.md",
+    "FALL2025/ECE555/Sequential Logic.md",
+    "Models/tauc-lorentz.md",
+    "Models/kramers-kronig.md",
     "Crystallography/Untitled.canvas"
   ]
 }
